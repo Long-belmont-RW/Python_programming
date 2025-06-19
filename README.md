@@ -18,7 +18,7 @@ Each script is self-contained and demonstrates a specific concept, making this r
 | `pow.py`              | Calculates and prints the result of raising a number to a power.            |
 | `print_alphabet.py`   | Prints the lowercase alphabet in order.                                     |
 | `print_comb2.py`      | Prints all 2-digit combinations from 00 to 99.                              |
-| `print_comb3.py`      | Prints all unique 3-digit combinations.                                     |
+| `print_comb3.py`      | Prints all unique 2-digit combinations.                                     |
 | `print_hexa.py`       | Prints numbers from 0 to 98 with their hexadecimal values.                  |
 | `print_last_digit.py` | Prints the last digit of a given number.                                    |
 | `print_tebahpla.py`   | Prints the alphabet in reverse order, possibly with alternating case.       |
