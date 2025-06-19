@@ -24,6 +24,8 @@ Each script is self-contained and demonstrates a specific concept, making this r
 | `print_tebahpla.py`   | Prints the alphabet in reverse order, possibly with alternating case.       |
 | `remove_char_at.py`   | Returns a copy of a string with the character at a specific index removed.  |
 | `uppercase.py`        | Converts all lowercase letters in a string to uppercase and prints result.  |
+| `magic_calculation.py`        | disassembles a python funtion into byte code.  |
+
 
 ---
 
