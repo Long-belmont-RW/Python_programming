@@ -33,6 +33,8 @@ You can run any of the scripts using Python:
 
 ```bash
 python3 filename.py
+```
+
 > Replace `filename.py` with the name of the script you want to run.
 
 ---
@@ -47,13 +49,12 @@ No external libraries are needed. All scripts run with **standard Python 3**.
 
 This repository is perfect for:
 
-* Students learning Python
+* Students learning Python  
 * Teaching assistants or instructors who need examples
 
 ---
 
-
 ### 👤 Author
 
-**Longwul Gabriel Dakogol**
+**Long-belmont-RW**  
 GitHub: [@Long-belmont-RW](https://github.com/Long-belmont-RW)
